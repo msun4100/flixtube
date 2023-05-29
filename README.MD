@@ -1,10 +1,10 @@
-# Example-2
+# MSA Practice; starting with Ch.6
 
-This example uses Terraform to create a private container registery in Azure.
+This example uses Terraform to create a private container registry in Azure.
 
 Run this example using:
 
 ```bash
-cd example-2/scripts
+cd scripts
 terraform apply
 ```
